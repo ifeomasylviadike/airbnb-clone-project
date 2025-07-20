@@ -17,6 +17,22 @@ Maintain visual consistency
 Ensure fast loading times
 Prioritize mobile responsiveness
 
+Figma Design Specifications
+Color Styles -
+Primary- #FF5A5F
+Secondary- #008489
+Background- #FFFFFF
+Text - #222222
+Secondary Text - #717171
+
+Typography 
+Primary Font - Circular, Medium (500), 16px
+Headings - Circular, Bold (700), 24px-32px
+Secondary Text - Circular, Book (400), 14px
+
+Importance of identifying design properties of a mock up design :
+Identifying design properties of a mockup is crucial because it allows for early identification of potential issues, efficient collaboration, and informed decision-making throughout the design and development process.
+
 Key Features -
 Property search and filtering
 Detailed property viewing
